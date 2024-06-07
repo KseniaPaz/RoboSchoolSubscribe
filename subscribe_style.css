@@ -9,6 +9,7 @@ a {
 
 body {
   font-family: "Jost", sans-serif;
+  overflow: hidden;
 }
 
 summary {
